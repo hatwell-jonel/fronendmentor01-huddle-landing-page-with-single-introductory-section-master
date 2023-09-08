@@ -27,9 +27,9 @@ Users should be able to:
 
 
 ### Links
-
-- Solution URL: [Live site](https://www.frontendmentor.io/solutions/001-trying-bem-haqSbgS-24)
-- Live Site URL: [Frontend mentor](https://fronendmentor01-huddle-landing-page-with-single-intr-3pygrro2j.vercel.app)
+ 
+- Live Site URL: [Live site](https://www.frontendmentor.io/solutions/001-trying-bem-haqSbgS-24)
+- Solution URL: [Frontend mentor](https://fronendmentor01-huddle-landing-page-with-single-intr-3pygrro2j.vercel.app)
 
 
 ### Useful resources
